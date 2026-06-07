@@ -1,8 +1,6 @@
 import { useState } from "react";
 
-const bioText = `Associate Analyst → Business Analyst | Excel, SQL & process mapping | Turning operational data into decisions`;
-
-const readmeRaw = `# Hi, I'm Anne Flora 👋
+Hi, I'm Anne Flora 👋
 
 Associate Analyst at Accenture, transitioning into Business Analysis.
 I spend my days turning messy operational data into clear decisions — through dashboards, process maps, and structured documentation.
