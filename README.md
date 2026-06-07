@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 Hi, I'm Anne Flora 👋
 
 Associate Analyst at Accenture, transitioning into Business Analysis.
